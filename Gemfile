@@ -1,5 +1,5 @@
 ruby '2.7.2'
-Warning[:experimental] = false
+# Warning[:experimental] = false
 
 source 'https://rubygems.org'
 
